@@ -1,4 +1,4 @@
-# Operation - Auktionen
+# Operation :: Auktionen
 Auktionsoperation - **#Standard**
 
 ## Reiter: Details
